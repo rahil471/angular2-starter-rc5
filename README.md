@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular 2 QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
@@ -152,3 +153,7 @@ Shut it down manually with Ctrl-C.
 
 [travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/angular/quickstart
+=======
+# angular2-starter-rc5
+angular2-starter-rc5
+>>>>>>> 20c5cfcda72b89e61e17de413707c8bc65761bd8
