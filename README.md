@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Angular 2 QuickStart Source
+
+# angular2-starter-rc5
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
@@ -153,7 +153,4 @@ Shut it down manually with Ctrl-C.
 
 [travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/angular/quickstart
-=======
-# angular2-starter-rc5
-angular2-starter-rc5
->>>>>>> 20c5cfcda72b89e61e17de413707c8bc65761bd8
+
